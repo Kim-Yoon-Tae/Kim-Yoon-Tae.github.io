@@ -12,7 +12,7 @@ categories: introduce
 - 학과 : 컴퓨터교육과
 - 학년 : 2학년(2학기)
 - 깃허브 주소: [https://github.com/Kim-Yoon-Tae](https://github.com/Kim-Yoon-Tae)
-
+- 블로그 : [https://kim-yoon-tae.github.io/](https://kim-yoon-tae.github.io/)
 
 
 ---
