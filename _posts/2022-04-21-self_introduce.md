@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2019104128 김윤태 자기소개입니다."
+categories: introduce
 ---
 
 
