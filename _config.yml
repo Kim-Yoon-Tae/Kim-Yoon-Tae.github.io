@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko_KR"
 title                    : "KYT BLOG"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Les't be a good teacher" # site tagline that appears below site title in masthead""
 name                     : "Kim Yoon Tae"
 description              : "제주대학교 컴퓨터교육과 김윤태의 블로그입니다."
 url                      : "https://Kim-Yoon-Tae.github.io"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kim Yoon Tae"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "제주대학교 컴퓨터교육과 김윤태의 블로그입니다."
+  location         : "JEJU, South Korea"
+  email            : "rladbsxo2000@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
